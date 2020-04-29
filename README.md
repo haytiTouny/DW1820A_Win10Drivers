@@ -2,6 +2,13 @@
 
 主板ASUS B85M-G 使用 转接卡MGFF转PCIE*1，成功装上DW1820A
 黑苹果驱动已经按黑果小兵大佬的教程成功开启wifi,接力，AirDrop，蓝牙等功能完美
+
+macOS :10.14.6 18G87
+https://blog.daliansky.net/macOS-Mojave-10.14.6-18G87-Release-version-with-Clover-5033-original-image.html
+MD5 (macOS Mojave 10.14.6(18G87) Installer with Clover 5033.dmg) = 886cc509cacaf3bb20fbd41dfb8da8ac
+
+
+
 用这个驱动终于可以连上华为mini蓝牙音箱CM510
 https://item.jd.com/100006272802.html
 
